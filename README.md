@@ -2,7 +2,7 @@
 
 Instructions on how to build project within one hour can be viewed at: https://www.youtube.com/watch?v=ctuSR6UHcuQ
 <br/>Instruction on how to deploy: https://youtu.be/hYMTvK5MpQI
-
+ 
 ## Building Your First Custom App in 1 Hour
 
 This project is a great beginner friendly project. In this tutorial we walk through how to build a URL shortening service. You can check out the youtube tutorial above on a code walk through. We use django as the backend, html with bootstrap as the front end and ORM with SQLite3 for data management. All files relevant to build the application are included in this respository
@@ -25,7 +25,7 @@ Step 4: Connect host ip and hostname
 <br/>run <b>`nano /etc/hosts`</b> and add your server ip, click tab and then your hostname (from step 3)
 
 Step 5: Install some dependencies
-<br/>run <b>`sudo apt install python-pip virtualenv ufw`</b>
+<br/>run <b>`sudo apt install python3-pip virtualenv ufw`</b>
 
 Step 6: Create a limited user and give sudo privlidges<br/>
 
